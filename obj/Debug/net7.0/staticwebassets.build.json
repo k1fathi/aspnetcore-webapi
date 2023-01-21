@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "XagfzJ6wEf0RXTa9UMUUImjCMSfr++AUqW5hMjfuP+8=",
-  "Source": "aspnetcore-webapi",
-  "BasePath": "_content/aspnetcore-webapi",
+  "Hash": "nFysgcbWqdYNrwjnOLHJQikfFSjW8++L0XR9EcH7E2c=",
+  "Source": "AspnetcoreWebapi",
+  "BasePath": "_content/AspnetcoreWebapi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dotnet\\7\\aspnetcore-webapi\\aspnetcore-webapi.csproj",
-      "projectName": "aspnetcore-webapi",
-      "projectPath": "C:\\dotnet\\7\\aspnetcore-webapi\\aspnetcore-webapi.csproj",
+      "projectUniqueName": "C:\\dotnet\\7\\aspnetcore-webapi\\AspnetcoreWebapi.csproj",
+      "projectName": "AspnetcoreWebapi",
+      "projectPath": "C:\\dotnet\\7\\aspnetcore-webapi\\AspnetcoreWebapi.csproj",
       "packagesPath": "C:\\Users\\K1\\.nuget\\packages\\",
       "outputPath": "C:\\dotnet\\7\\aspnetcore-webapi\\obj\\",
       "projectStyle": "PackageReference",

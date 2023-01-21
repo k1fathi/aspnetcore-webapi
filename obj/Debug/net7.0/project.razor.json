@@ -16552,7 +16552,7 @@
     ],
     "CSharpLanguageVersion": 1100
   },
-  "RootNamespace": "aspnetcore_webapi",
+  "RootNamespace": "AspnetcoreWebapi",
   "Documents": [],
   "SerializationFormat": "0.2"
 }
